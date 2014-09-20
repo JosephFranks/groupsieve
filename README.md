@@ -111,6 +111,8 @@ ran it.  In a future version of groupsieve, I'll include an internal
 timer for greater accuracy and so I can test it against primesieve's 
 internal timer.  
 
+You may want to download and view this file in a text editor so the formatting isn't crazy.
+
 Generating primes without printing them: 
 					groupsieve						primesieve
 Limit			1 thread	4 threads		1 thread	4 threads

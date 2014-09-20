@@ -2,8 +2,10 @@ groupsieve
 ==========
 
 groupsieve 1.0
+
 Author: Joseph B. Franks
-Email: jos.b.franks@gmail.com
+
+E-mail: jos.b.franks@gmail.com
 
 groupsieve is a software program written in C that generates prime numbers
 in order using a segmented sieve of Eratosthenes with optimizations 

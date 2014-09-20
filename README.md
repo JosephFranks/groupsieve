@@ -5,6 +5,8 @@ groupsieve 1.0
 
 Author: Joseph B. Franks
 
+https://github.com/JosephFranks/groupsieve.git
+
 E-mail: jos.b.franks@gmail.com
 
 groupsieve is a software program written in C that generates prime numbers
